@@ -1,0 +1,8 @@
+io\swagger\model\Tag.class
+io\swagger\constants\Path.class
+io\swagger\utils\TestUtil.class
+io\swagger\utils\PropertyReader.class
+io\swagger\model\Category.class
+io\swagger\constants\EndPoints.class
+io\swagger\model\Pet.class
+io\swagger\UsersSteps.class

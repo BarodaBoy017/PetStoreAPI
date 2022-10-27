@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing a REST API","User able to add pet","SUCCESS","2022-10-27T11:12:51.694+01:00[Europe/London]","0.0","5.02"
+"Testing a REST API","User able to fetch pet data","SUCCESS","2022-10-27T11:12:56.734+01:00[Europe/London]","0.0","1.21"

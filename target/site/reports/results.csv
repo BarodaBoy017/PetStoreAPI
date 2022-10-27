@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing a REST API","User able to add pet","SUCCESS","2022-10-27T11:12:51.694+01:00[Europe/London]","0.0","5.02"
+"Testing a REST API","User able to fetch pet data","SUCCESS","2022-10-27T11:12:56.734+01:00[Europe/London]","0.0","1.21"
+"Testing a REST API","User should not able to add pet without payload","SUCCESS","2022-10-27T11:12:57.94+01:00[Europe/London]","0.0","0.6"
+"Testing a REST API","User should not able to add pet with invalid payload/body","SUCCESS","2022-10-27T11:12:58.555+01:00[Europe/London]","0.0","0.62"

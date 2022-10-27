@@ -1,0 +1,3 @@
+io\swagger\cucumber\steps\MyStepdefs.class
+io\swagger\cucumber\TestRunner.class
+io\swagger\testbase\TestBase.class
